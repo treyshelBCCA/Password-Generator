@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b739b553-dc59-4c85-90a6-bc924567db64" name="Changes" comment="" />
+    <list default="true" id="b739b553-dc59-4c85-90a6-bc924567db64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Password-Generator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password-Generator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password-Generator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password-Generator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password-Generator/Password-Generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password-Generator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password-Generator/src/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password-Generator/src/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password-Generator/src/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Password-Generator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Password-Generator/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2QFgloh9ZMk2D12ZNvU3q2ef3FN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/Users/treyshelton/Desktop/BCCA/unit-7/bellringer/Password-Generator"
   }
